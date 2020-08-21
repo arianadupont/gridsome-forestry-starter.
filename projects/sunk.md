@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
+thumbnail: "/uploads/bigbottlesized.svg"
 title: Pineapple
 date: 2019-02-06
 categories:
