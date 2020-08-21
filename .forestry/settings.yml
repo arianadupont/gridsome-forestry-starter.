@@ -6,21 +6,21 @@ webhook_url:
 sections:
 - type: directory
   path: projects
-  label: Projects
+  label: ABOUT
   create: documents
   match: "**/*.md"
   templates:
   - project
 - type: directory
   path: journal
-  label: Journal
+  label: SHOP
   create: documents
   match: "**/*.md"
   templates:
   - journal
 - type: document
   path: data/theme.json
-  label: Theme config
+  label: Contact & Support
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
